@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #input-section {
+    margin: 20px;
+  }
+  
+  #lyrics-section {
+    margin: 20px;
+  }
+  
+  #lyrics-output {
+    background-color: #f9f9f9;
+    padding: 10px;
+  }
+  
